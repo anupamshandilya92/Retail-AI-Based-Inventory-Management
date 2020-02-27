@@ -1,5 +1,4 @@
-# Trends-Marketplace-Fall
-Team 14 
+Team 
 Contributers: Ankit Singh, sing0622@umn.edu,
               Yulin Liu, liu01223@umn.edu,
               Nitin Wahie, wahie001@umn.edu,
