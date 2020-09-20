@@ -12,28 +12,28 @@ To enhance in store experience and optimize the inventory, Retail Stores are goi
 
 The platform will keep track of inventory on the shelf using Open CV and the information will be available on a dashboard in real time. The Analytics layer will have information on time of sales of products, the shelf which led to the sales and sales cycle of the products. This information through dashboard will enable the store management to predict inventory placement and sales and thus optimize the in store inventory.
 
-![Slide1](Trends Presentation/Slide1.PNG)
+![Slide1](Presentation/Slide1.PNG)
 
-![Slide2](Trends Presentation/Slide2.PNG)
+![Slide2](Presentation/Slide2.PNG)
 
-![Slide3](Trends Presentation/Slide3.PNG)
+![Slide3](Presentation/Slide3.PNG)
 
-![Slide4](Trends Presentation/Slide4.PNG)
+![Slide4](Presentation/Slide4.PNG)
 
-![Slide5](Trends Presentation/Slide5.PNG)
+![Slide5](Presentation/Slide5.PNG)
 
-![Slide6](Trends Presentation/Slide6.PNG)
+![Slide6](Presentation/Slide6.PNG)
 
-![Slide7](Trends Presentation/Slide7.PNG)
+![Slide7](Presentation/Slide7.PNG)
 
-![Slide8](Trends Presentation/Slide8.PNG)
+![Slide8](Presentation/Slide8.PNG)
 
-![Slide9](Trends Presentation/Slide9.PNG)
+![Slide9](Presentation/Slide9.PNG)
 
-![Slide10](Trends Presentation/Slide10.PNG)
+![Slide10](Presentation/Slide10.PNG)
 
-![Slide11](Trends Presentation/Slide11.PNG)
+![Slide11](Presentation/Slide11.PNG)
 
-![Slide12](Trends Presentation/Slide12.PNG)
+![Slide12](Presentation/Slide12.PNG)
 
-![Slide13](Trends Presentation/Slide13.PNG)
+![Slide13](Presentation/Slide13.PNG)
